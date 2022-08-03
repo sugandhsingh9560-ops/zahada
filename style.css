@@ -1,0 +1,24 @@
+header {
+    background-color: darkgrey;
+}
+
+p {
+    margin: 0.4rem;
+}
+
+@media screen and (max-width: 600px) {
+    .Followers {
+        display: block;
+        margin-left: 4.1rem;
+    }
+}
+
+.pin_repo {
+    padding-top: 0.3rem;
+    padding-left: 9rem;
+    font-size: 1.2em;
+}
+
+.pin_repo span {
+    font-weight: 400;
+}
